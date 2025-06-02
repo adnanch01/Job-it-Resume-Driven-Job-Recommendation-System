@@ -8,6 +8,7 @@ from job_scraper import get_jobs
 
 
 
+
 app = Flask(__name__)
 
 @app.route('/')
